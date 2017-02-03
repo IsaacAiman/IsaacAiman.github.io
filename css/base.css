@@ -70,3 +70,8 @@ a{
     transition: all 0.1s linear;
     color: grey;
 }
+
+.nav-tabs.nav-justified>li>a {
+    margin-right: 0;
+    border-radius: 0px;
+}
