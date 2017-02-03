@@ -1,0 +1,46 @@
+@import 'base.css';
+.container {
+    text-align: center;
+}
+
+#slider {
+    position: relative;
+    /*dsf*/
+    overflow: hidden;
+    height: auto;
+    max-width: 622.22px;
+    height: 350px;
+    margin: 0 auto;
+    border-width: 3px;
+    border-style: solid;
+    box-shadow: 7px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.div_img {
+    position: absolute;
+    /*situamos las cajas padre de las imágenes
+  de manera absoluta con respecto al contenedor general para que se
+  colquen una encima de la otra*/
+}
+
+.div_cajas {
+    width: 100%;
+    text-align: center;
+}
+
+.columna {
+    color: black;
+    text-align: justify;
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: 50px;
+    /*border: 2px solid;
+    border-color: white;
+    background-color: black;*/
+    padding: 10px;
+    opacity: 0.75;
+    margin-top: 50px;
+}
+
+p {
+    text-align: justify;
+}

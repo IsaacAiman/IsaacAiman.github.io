@@ -1,0 +1,13 @@
+@import 'base.css';
+.cuadro {
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+    border: 2px solid;
+    border-color: white;
+    background-color: black;
+    width: 50%;
+    margin: auto;
+    padding: 10px;
+    opacity: 0.75;
+}

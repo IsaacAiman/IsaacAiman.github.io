@@ -1,0 +1,43 @@
+@import 'https://fonts.googleapis.com/css?family=Bree+Serif';
+@import 'base.css';
+.registro {
+    color: white;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+#registro {
+    color: white;
+    border: 2px solid;
+    border-color: white;
+    background-color: black;
+    width: 100%;
+    margin: auto;
+    opacity: 0.75;
+}
+
+.login {
+    text-align: center;
+    padding: 20px;
+    color: white;
+    border: 1px solid;
+    border-color: white;
+    background-color: black;
+    width: 100%;
+    margin: auto;
+    opacity: 0.75;
+}
+
+input {
+    color: black;
+}
+
+textarea {
+    color: black;
+    width: 80%;
+}
+
+select {
+    color: black;
+    width: 80%;
+}
